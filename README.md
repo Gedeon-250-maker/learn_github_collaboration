@@ -2,5 +2,5 @@
 
 Dummy repo to simulate collaboration task
 
-## Names of contributors
+## list of contributors
 - Gedeon Muvunyi
