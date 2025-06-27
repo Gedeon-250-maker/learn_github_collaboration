@@ -1,3 +1,6 @@
 # learn_github_collaboration
- Dummy repo to simulate collaboration task
-- Muvunyi Gedeon
+
+Dummy repo to simulate collaboration task
+
+## Names of contributors
+- Gedeon Muvunyi
